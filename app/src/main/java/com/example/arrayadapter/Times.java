@@ -8,7 +8,7 @@ public class Times {
         return time;
     }
 
-    public void setName(String time) {
+    public void setTime(String time) {
         this.time = time;
     }
 
